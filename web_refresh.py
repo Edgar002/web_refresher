@@ -13,5 +13,3 @@ while True:
     driver.get(url)
     time.sleep(0.5)  # Wait for 5 seconds before refreshing again
 
-# Close the browser
-driver.quit()
