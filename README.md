@@ -32,7 +32,9 @@ pip install -r requirements.txt
 python web_refresh.py
 ```
 
-3. To stop the script, press `Ctrl+C`.
+3. Press space to stop/resume the loop. 
+
+4. To stop the script, press `Ctrl+C`.
 
 ## Configuration
 
