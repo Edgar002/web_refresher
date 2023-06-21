@@ -1,29 +1,38 @@
 # Web Page Refresh Project
 
-This project allows you to refresh a web page continuously using a Python script with Selenium.
+## Description
 
-## Setup and Usage
+This project allows you to continuously refresh a web page using a Python script with Selenium.
+
+## Installation
 
 1. Clone the repository:
 
+```
 git clone https://github.com/your-username/web-page-refresh.git
-
+```
 
 2. Install the required dependencies:
 
+```
 pip install -r requirements.txt
+```
 
-3. Update the configuration file:
+## Usage
+
+1. Update the configuration file:
+
 - Open the `config.ini` file.
 - Set the `url` variable to the desired web page URL.
 - Adjust the `refresh_interval` to specify the time (in seconds) between each refresh.
 
-4. Run the script:
+2. Run the script:
 
+```
 python web_refresh.py
+```
 
-
-5. To stop the script, press `Ctrl+C`.
+3. To stop the script, press `Ctrl+C`.
 
 ## Configuration
 
@@ -35,6 +44,7 @@ The `config.ini` file contains the following settings:
 ## Dependencies
 
 The project uses the following dependencies:
+
 - Selenium: Version X.X.X
 - Other dependencies...
 
@@ -45,4 +55,3 @@ Contributions to the project are welcome! If you encounter any issues or have su
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
