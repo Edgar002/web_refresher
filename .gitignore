@@ -1,0 +1,24 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+
+# Config files
+config.ini
+
+# Virtual environment
+venv/
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+
+# Web driver
+chromedriver
+
+# Dependencies
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
