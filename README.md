@@ -9,7 +9,7 @@ This project allows you to continuously refresh a web page using a Python script
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/web-page-refresh.git
+git clone https://github.com/Edgar002/web-page-refresh.git
 ```
 
 2. Install the required dependencies:
