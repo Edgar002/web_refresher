@@ -15,6 +15,7 @@ venv/
 
 # Web driver
 chromedriver
+chromedriver.exe
 
 # Dependencies
 venv/
